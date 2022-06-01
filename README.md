@@ -1,0 +1,2 @@
+# whitepaper
+Official Sivacoin Whitepaper
